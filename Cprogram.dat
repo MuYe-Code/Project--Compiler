@@ -1,0 +1,13 @@
+123+631*2(123)12;
+1231+32==23;
+sdh=(21>31);
+
+int main() {
+	int i; 
+	for(i=0;i<=50;i=i+1) { 
+		printf("this is circle\n");
+ 	}
+	Insert(5,6); 
+	printf("Hello World!\n"); 
+	return 0; 
+}
